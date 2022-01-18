@@ -1,3 +1,5 @@
+{{--テスト--}}
+
 @extends('book/layout')
 @section('content')
 <div class="container ops-main">
